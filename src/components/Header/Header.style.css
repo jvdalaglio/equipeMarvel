@@ -1,0 +1,30 @@
+.navbarHeader {
+  height: 63px;
+  background-color: #a14c47;
+}
+
+.btn-go-back {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box-logo {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+}
+
+.logo-margin-right {
+  margin-right: 40px;
+}
+
+.logo-margin-left {
+  margin-left: 63.63px;
+}
+
+.logo-margin-right-kitchen {
+  padding-right: 230px;
+}

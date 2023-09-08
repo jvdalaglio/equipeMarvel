@@ -1,0 +1,35 @@
+#styleButtons {
+  border-radius: 8px;   
+  color: #A24C47;
+  border-color: #A24C47;
+  background-color: #fff;  
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+#styleButtons:hover {  
+  background-color: #A24C47;
+  color: #FCFCFC;
+  border-color: #fcfcfc;
+  transition: 300ms;
+}
+
+
+
+.styledNav {
+  display: flex;
+  overflow-x: scroll;
+  margin: 2% 0% 0% 2%; 
+  background-color: #fcfcfc;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+}
+.styledCards {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 50px;
+  padding-bottom: 80px
+}
